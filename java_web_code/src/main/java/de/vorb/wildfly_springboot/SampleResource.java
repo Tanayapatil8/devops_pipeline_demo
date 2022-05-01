@@ -3,7 +3,7 @@ package de.vorb.wildfly_springboot;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import java.io.*;
-class mul
+public class SampleResource
 {
     public static void main(String[] args)
     {
